@@ -1,0 +1,13 @@
+file_format: "1"
+id: caldera
+name: Caldera
+type: shield
+url: https://github.com/yourusername/caldera
+requires: [nice_nano_v2]
+exposes: []
+features:
+  - keys
+  - split
+siblings:
+  - caldera_left
+  - caldera_right
