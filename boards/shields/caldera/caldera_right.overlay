@@ -19,4 +19,3 @@
         , <&pro_micro 2 GPIO_ACTIVE_HIGH>
         ;
 };
-};
